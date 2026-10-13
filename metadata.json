@@ -1,0 +1,8 @@
+{
+  "name": "Remix EventFlow AI",
+  "description": "Centralized AI system for event marketing, managing automated campaigns, creative direction, and performance analytics in one interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
